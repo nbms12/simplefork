@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ravikiran Resume</title>
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 700px;
+            margin: 30px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #1e40af; }
+        h2 {
+            color: #2563eb;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ravikiran</h1>
+    <p><b>Student</b></p>
+    <p>📞 8367343777 | </p>
+
+    <h2>Career Objective</h2>
+    <p>
+        Motivated student looking for an opportunity to learn new skills
+        and build a successful career.
+    </p>
+
+    <h2>Education</h2>
+    <p><b>B.Tech - Computer Science</b><br>
+    MITS College | 2023 - 2027</p>
+
+    <h2>Skills</h2>
+    <p>HTML, CSS, JavaScript, Python, Java</p>
+
+    <h2>Projects</h2>
+    <p><b>Personal Portfolio Website</b><br>
+    Created a responsive website using HTML and CSS.</p>
+
+    <h2>Certifications</h2>
+    <p>Web Development Fundamentals</p>
+
+    <h2>Languages</h2>
+    <p>English , Telugu</p>
+
+</body>
+</html>
