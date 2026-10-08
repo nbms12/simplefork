@@ -1,0 +1,97 @@
+Sure! Here is a simple **HTML profile page** with the profile names **Yoga** and **Baba**:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profiles - Yoga & Baba</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 40px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .profiles {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .profile {
+            background-color: white;
+            width: 250px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .profile img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .profile h2 {
+            color: #4CAF50;
+        }
+
+        .profile p {
+            color: #666;
+        }
+
+        .profile button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .profile button:hover {
+            background-color: #388E3C;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My Profiles</h1>
+
+    <div class="profiles">
+
+        <!-- Yoga Profile -->
+        <div class="profile">
+            <img src="https://via.placeholder.com/120" alt="Yoga Profile">
+            <h2>Yoga</h2>
+            <p>Yoga lover and fitness enthusiast.</p>
+            <button>View Profile</button>
+        </div>
+
+        <!-- Baba Profile -->
+        <div class="profile">
+            <img src="https://via.placeholder.com/120" alt="Baba Profile">
+            <h2>Baba</h2>
+            <p>Peaceful, positive and spiritual person.</p>
+            <button>View Profile</button>
+        </div>
+
+    </div>
+
+</body>
+</html>
+```
+
+Save it as **`profile.html`** and open it in your browser.
