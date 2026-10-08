@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -261,3 +262,8 @@
 
 </body>
 </html>
+```
+
+:::
+
+Save it as **`index.html`****→ double-click it → it runs in your browser**.
